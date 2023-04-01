@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(81 69 71);
+}
+h3{
+    color: yellowgreen;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    color: bisque;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-top-width: 5px;
+    width: 5%;
+
+}
