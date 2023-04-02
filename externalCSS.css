@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(81 69 71);
+    background-color: rgb(224,235,232);
 }
 h3{
     color: yellowgreen;
@@ -7,7 +7,7 @@ h3{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 a{
-    color: bisque;
+    color: rgb(20, 14, 5);
 }
 hr{
     border-style: none;
