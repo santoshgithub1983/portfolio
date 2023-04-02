@@ -5,3 +5,8 @@ body {
     color: #545454;
     background-color: rgb(224,235,232);
 }
+td{
+    font-size: 100%;
+    font-size: medium;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
